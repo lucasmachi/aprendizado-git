@@ -1,0 +1,1 @@
+Esse repositório é um exercício para compreender os comandos Git e como funciona controle de versão pelo Github
